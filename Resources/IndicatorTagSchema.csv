@@ -1,0 +1,4 @@
+,Export,IndicatorID,Name,Description,PIDNumber,IndicatorType,HiHiSlot,HiHiPoint,HiHiRev,HiSlot,HiPoint,HiRev,MidSlot,MidPoint,MidRev,LoSlot,LoPoint,LoRev,LoLoSlot,LoLoPoint,LoLoRev,AnalogSlot,AnalogPoint
+None,BOOL,DINT,STRING,STRING,STRING,DINT,DINT,DINT,BOOL,DINT,DINT,BOOL,DINT,DINT,BOOL,DINT,DINT,BOOL,DINT,DINT,BOOL,DINT,DINT
+None,None,None,None,None,None,MOV,MOV,MOV,None,MOV,MOV,None,MOV,MOV,None,MOV,MOV,None,MOV,MOV,None,MOV,MOV
+,,,,,,Type,HiHi_Slot,HiHi_Point,,On_Slot,On_Point,,Mid_Slot,Mid_Point,,Off_Slot,Off_Point,,LoLo_Slot,LoLo_Point,,Value_Slot,Value_Point
